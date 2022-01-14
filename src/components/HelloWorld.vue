@@ -37,6 +37,10 @@ export default {
     msg: String
   }
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> 6cfc296 (init)
 </script>
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
